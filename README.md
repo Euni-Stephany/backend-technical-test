@@ -19,24 +19,27 @@ http://localhost:4000
 
 ## API Endpoint
 
-| Method | Endpoint | Description |
-|---|---|---|
-| GET | /users | Get all users |
-| GET | /users/:id | Get user by ID |
-| POST | /users | Create user |
-| PATCH | /users/:id | Update user |
-| DELETE | /users/:id | Delete user |
+| Method | Endpoint   | Description    |
+| ------ | ---------- | -------------- |
+| GET    | /users     | Get all users  |
+| GET    | /users/:id | Get user by ID |
+| POST   | /users     | Create user    |
+| PATCH  | /users/:id | Update user    |
+| DELETE | /users/:id | Delete user    |
 
 ## Example Request
 
 ### POST /users
 
 {
-    "name" : "Lydia",
-    "email": "lydia@example.com"
+"name" : "Lydia",
+"email": "lydia@example.com"
 }
 
 ## Live API
 
-## Repository 
+https://backend-technical-test-ujbq.onrender.com/
+
+## Repository
+
 https://github.com/Euni-Stephany/backend-technical-test/tree/main/src
