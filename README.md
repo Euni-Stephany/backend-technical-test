@@ -42,8 +42,4 @@ https://backend-technical-test-ujbq.onrender.com/
 
 ## Repository
 
-https://github.com/Euni-Stephany/backend-technical-test/tree/main/src
-
-Live API: https://backend-technical-test-ujbq.onrender.com/
-
-Repo: https://github.com/Euni-Stephany/backend-technical-test
+https://github.com/Euni-Stephany/backend-technical-test
